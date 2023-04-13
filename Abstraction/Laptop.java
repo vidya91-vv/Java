@@ -1,4 +1,4 @@
-package Abstraction;
+/*package Abstraction;
 
 public interface Laptop {
   public void copy();
@@ -23,3 +23,4 @@ public interface Laptop {
     System.out.println("Common code");
   }
 }
+*/

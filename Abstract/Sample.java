@@ -1,4 +1,4 @@
-package Abstract;
+/*package Abstract;
 
 public abstract class Sample implements Laptop{
   public void copy(){
@@ -14,3 +14,4 @@ public abstract class Sample implements Laptop{
   public abstract void keyboard();
      
 }
+*/
