@@ -19,14 +19,14 @@ public class Program2 {
     FileReader fr = new FileReader(file);
 
     FileInputStream fis = new FileInputStream(file);
-    InputStreamReader isr = new TnputStreamReader(fis);
+    InputStreamReader isr = new InputStreamReader(fis);
 
-    BufferedReader br = new BufferedReader(isr);
+    
     
 
     String text = new String();
     String line = new String();
-    while((line = br.readLine()) != null){
+    //while((line = br.readLine()) != null){
       text += line +"\n";
     }
     System.out.println(text);
